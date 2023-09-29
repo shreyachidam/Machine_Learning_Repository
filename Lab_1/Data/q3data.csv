@@ -1,0 +1,216 @@
+internet_users,gdp,income,year,country,four_regions,six_regions,eight_regions,world_bank_region
+0.00456,330,1190,2001,Afghanistan,asia,south_asia,asia_west,South Asia
+0.39,2570,6780,2001,Albania,europe,europe_central_asia,europe_east,Europe & Central Asia
+1.59,3770,9230,2001,Algeria,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+,10500,,2001,American Samoa,,,,
+11.3,42600,35600,2001,Andorra,europe,europe_central_asia,europe_west,Europe & Central Asia
+0.27,2440,2900,2001,Angola,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+12.5,12300,17100,2001,Antigua and Barbuda,americas,america,america_north,Latin America & Caribbean
+10.9,6850,15500,2001,Argentina,americas,america,america_south,Latin America & Caribbean
+1.96,1760,5080,2001,Armenia,europe,europe_central_asia,europe_east,Europe & Central Asia
+18.8,25500,,2001,Aruba,,,,
+,45800,39700,2001,Australia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+36.6,42900,47500,2001,Austria,europe,europe_central_asia,europe_west,Europe & Central Asia
+5,1970,4810,2001,Azerbaijan,europe,europe_central_asia,europe_east,Europe & Central Asia
+18,32200,41400,2001,Bahamas,americas,america,america_north,Latin America & Caribbean
+18.1,22000,47300,2001,Bahrain,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+0.14,552,2040,2001,Bangladesh,asia,south_asia,asia_west,South Asia
+27.8,15200,14800,2001,Barbados,americas,america,america_north,Latin America & Caribbean
+8.95,3130,8960,2001,Belarus,europe,europe_central_asia,europe_east,Europe & Central Asia
+46.3,40400,44000,2001,Belgium,europe,europe_central_asia,europe_west,Europe & Central Asia
+5.68,3990,6740,2001,Belize,americas,america,america_north,Latin America & Caribbean
+0.703,985,2570,2001,Benin,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+52,99500,,2001,Bermuda,,,,
+1.68,1290,4690,2001,Bhutan,asia,south_asia,asia_west,South Asia
+3.12,1610,5430,2001,Bolivia,americas,america,america_south,Latin America & Caribbean
+2.65,3310,7830,2001,Bosnia and Herzegovina,europe,europe_central_asia,europe_east,Europe & Central Asia
+3.39,5340,11700,2001,Botswana,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+9.15,8950,11800,2001,Brazil,americas,america,america_south,Latin America & Caribbean
+18.9,,,2001,British Virgin Islands,,,,
+15.3,36800,70800,2001,Brunei,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+9.08,4570,11700,2001,Bulgaria,europe,europe_central_asia,europe_east,Europe & Central Asia
+0.201,514,1360,2001,Burkina Faso,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.118,232,840,2001,Burundi,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.227,475,2040,2001,Cambodia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0.361,1180,2840,2001,Cameroon,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+61.6,40500,38300,2001,Canada,americas,america,america_north,North America
+3.52,2300,4230,2001,Cape Verde,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+,,,2001,Cayman Islands,,,,
+0.129,438,1080,2001,Central African Republic,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.166,519,1010,2001,Chad,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+22.1,9810,16300,2001,Chile,americas,america,america_south,Latin America & Caribbean
+4.6,2060,4020,2001,China,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4.6,4910,9170,2001,Colombia,americas,america,america_south,Latin America & Caribbean
+0.555,1290,2830,2001,Comoros,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.0928,276,715,2001,"Congo, Dem. Rep.",africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.157,2680,4550,2001,"Congo, Rep.",africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+19.9,6380,12900,2001,Costa Rica,americas,america,america_north,Latin America & Caribbean
+0.498,1280,2640,2001,Cote d'Ivoire,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+17.8,11800,20600,2001,Croatia,europe,europe_central_asia,europe_east,Europe & Central Asia
+3.77,3620,5030,2001,Cuba,americas,america,america_north,Latin America & Caribbean
+,,,2001,Curaçao,,,,
+28.3,28100,34700,2001,Cyprus,europe,europe_central_asia,europe_west,Europe & Central Asia
+23.9,15700,26400,2001,Czech Republic,europe,europe_central_asia,europe_east,Europe & Central Asia
+64.3,56200,49400,2001,Denmark,europe,europe_central_asia,europe_west,Europe & Central Asia
+0.487,,2480,2001,Djibouti,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+18.4,5400,9310,2001,Dominica,americas,america,america_north,Latin America & Caribbean
+6.82,4210,9690,2001,Dominican Republic,americas,america,america_north,Latin America & Caribbean
+4.26,3830,8540,2001,Ecuador,americas,america,america_south,Latin America & Caribbean
+2.72,2020,7910,2001,Egypt,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+1.9,2700,6630,2001,El Salvador,americas,america,america_north,Latin America & Caribbean
+0.321,10000,20800,2001,Equatorial Guinea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.227,657,2880,2001,Eritrea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+41.5,11500,20400,2001,Estonia,europe,europe_central_asia,europe_east,Europe & Central Asia
+1.82,3240,5810,2001,Eswatini,,,,
+0.0724,205,755,2001,Ethiopia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+53.3,,,2001,Faeroe Islands,,,,
+6.15,3470,10000,2001,Fiji,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+62.4,42000,41500,2001,Finland,europe,europe_central_asia,europe_east,Europe & Central Asia
+30.2,38900,40500,2001,France,europe,europe_central_asia,europe_west,Europe & Central Asia
+8.2,,,2001,French Polynesia,,,,
+1.94,9880,16100,2001,Gabon,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1.8,800,2180,2001,Gambia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1.59,1850,5570,2001,Georgia,europe,europe_central_asia,europe_east,Europe & Central Asia
+48.8,38400,43500,2001,Germany,europe,europe_central_asia,europe_west,Europe & Central Asia
+0.83,986,2830,2001,Ghana,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+23.7,,,2001,Gibraltar,,,,
+14.7,24800,31700,2001,Greece,europe,europe_central_asia,europe_west,Europe & Central Asia
+44.2,32100,,2001,Greenland,,,,
+14.8,6320,11700,2001,Grenada,americas,america,america_north,Latin America & Caribbean
+31.2,27800,,2001,Guam,,,,
+3.39,2560,6590,2001,Guatemala,americas,america,america_north,Latin America & Caribbean
+0.402,641,1780,2001,Guinea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1.02,533,1670,2001,Guinea-Bissau,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+,3770,8060,2001,Guyana,americas,america,america_south,Latin America & Caribbean
+0.893,1120,2610,2001,Haiti,americas,america,america_north,Latin America & Caribbean
+2.6,1630,4160,2001,Honduras,americas,america,america_north,Latin America & Caribbean
+43.1,23300,36700,2001,"Hong Kong, China",asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+16.7,11500,21300,2001,Hungary,europe,europe_central_asia,europe_east,Europe & Central Asia
+79.1,38700,41500,2001,Iceland,europe,europe_central_asia,europe_west,Europe & Central Asia
+1.54,869,2710,2001,India,asia,south_asia,asia_west,South Asia
+2.13,2260,6000,2001,Indonesia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4.63,5080,10600,2001,Iran,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+0.5,4390,5330,2001,Iraq,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+25.9,47600,51800,2001,Ireland,europe,europe_central_asia,europe_west,Europe & Central Asia
+,49900,,2001,Isle of Man,,,,
+17.8,26600,30300,2001,Israel,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+28,37100,44100,2001,Italy,europe,europe_central_asia,europe_west,Europe & Central Asia
+6.1,4750,9520,2001,Jamaica,americas,america,america_north,Latin America & Caribbean
+46.6,42200,35700,2001,Japan,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+6.03,3100,9380,2001,Jordan,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+1.67,5610,12800,2001,Kazakhstan,asia,europe_central_asia,asia_west,Europe & Central Asia
+1.21,810,2830,2001,Kenya,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2.5,1700,2160,2001,Kiribati,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+,2330,,2001,Kosovo,,,,
+10.2,35600,54300,2001,Kuwait,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+3,676,3180,2001,Kyrgyz Republic,asia,europe_central_asia,asia_west,Europe & Central Asia
+0.268,730,3110,2001,Lao,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+21.9,8120,15100,2001,Latvia,europe,europe_central_asia,europe_east,Europe & Central Asia
+7,5640,14200,2001,Lebanon,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+1.08,840,1690,2001,Lesotho,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.0327,618,1710,2001,Liberia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2.24,8450,15800,2001,Libya,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+59.5,,,2001,Liechtenstein,europe,europe_central_asia,europe_west,Europe & Central Asia
+17.7,8010,16100,2001,Lithuania,europe,europe_central_asia,europe_east,Europe & Central Asia
+39.8,97300,100000,2001,Luxembourg,europe,europe_central_asia,europe_west,Europe & Central Asia
+25.2,24200,,2001,"Macao, China",,,,
+0.34,428,1410,2001,Madagascar,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.215,361,731,2001,Malawi,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+32.3,7110,16200,2001,Malaysia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+5.35,5670,13100,2001,Maldives,asia,south_asia,asia_west,South Asia
+0.227,622,1830,2001,Mali,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+28.9,18200,27500,2001,Malta,europe,europe_central_asia,europe_west,Middle East & North Africa
+2.34,2840,3670,2001,Marshall Islands,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0.363,1400,4150,2001,Mauritania,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+10.3,5860,12300,2001,Mauritius,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+11.9,8960,17300,2001,Mexico,americas,america,america_north,Latin America & Caribbean
+5.57,2790,3540,2001,"Micronesia, Fed. Sts.",asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+3.79,1660,5830,2001,Moldova,europe,europe_central_asia,europe_east,Europe & Central Asia
+48,140000,57100,2001,Monaco,europe,europe_central_asia,europe_west,Europe & Central Asia
+2.04,1690,4350,2001,Mongolia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+,5060,12700,2001,Montenegro,europe,europe_central_asia,europe_east,Europe & Central Asia
+2.37,2130,4720,2001,Morocco,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+0.26,335,729,2001,Mozambique,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+4.3e-4,435,1340,2001,Myanmar,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+2.63,4180,6880,2001,Namibia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+,,5900,2001,Nauru,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0.313,463,1840,2001,Nepal,asia,south_asia,asia_west,South Asia
+61.3,47000,48100,2001,Netherlands,europe,europe_central_asia,europe_west,Europe & Central Asia
+22.4,,,2001,New Caledonia,,,,
+59.1,31100,34800,2001,New Zealand,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+1.71,1300,4000,2001,Nicaragua,americas,america,america_north,Latin America & Caribbean
+0.127,449,976,2001,Niger,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.32,1600,3230,2001,Nigeria,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0,,1970,2001,North Korea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+17.3,3370,9980,2001,North Macedonia,,,,
+,24900,,2001,Northern Mariana Islands,,,,
+72.8,83700,58700,2001,Norway,europe,europe_central_asia,europe_west,Europe & Central Asia
+6.87,18800,34000,2001,Oman,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+2.58,829,3280,2001,Pakistan,asia,south_asia,asia_west,South Asia
+20.2,10000,14600,2001,Palau,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+3.1,1600,3400,2001,Palestine,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+8.52,5440,14400,2001,Panama,americas,america,america_north,Latin America & Caribbean
+1.32,1570,2750,2001,Papua New Guinea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+1.79,3410,8140,2001,Paraguay,americas,america,america_south,Latin America & Caribbean
+8.97,3360,6650,2001,Peru,americas,america,america_south,Latin America & Caribbean
+4.33,1710,4560,2001,Philippines,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+21.1,8840,16900,2001,Poland,europe,europe_central_asia,europe_west,Europe & Central Asia
+19.4,21800,30900,2001,Portugal,europe,europe_central_asia,europe_west,Europe & Central Asia
+17.5,25800,,2001,Puerto Rico,,,,
+10.2,62600,89100,2001,Qatar,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+6.58,5630,14000,2001,Romania,europe,europe_central_asia,europe_east,Europe & Central Asia
+4.13,7210,16200,2001,Russia,europe,europe_central_asia,europe_east,Europe & Central Asia
+0.293,406,1000,2001,Rwanda,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2.24,3150,5310,2001,Samoa,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+50.8,64000,76000,2001,San Marino,europe,europe_central_asia,europe_west,Europe & Central Asia
+7.58,845,2600,2001,Sao Tome and Principe,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+6.38,16700,27700,2001,Saudi Arabia,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+1.01,1170,2400,2001,Senegal,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+,4010,10200,2001,Serbia,europe,europe_central_asia,europe_east,Europe & Central Asia
+14.3,9380,18200,2001,Seychelles,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+0.176,330,1160,2001,Sierra Leone,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+47,33600,55500,2001,Singapore,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+40.1,11200,17000,2001,Slovak Republic,europe,europe_central_asia,europe_east,Europe & Central Asia
+27.8,19700,28100,2001,Slovenia,europe,europe_central_asia,europe_east,Europe & Central Asia
+0.502,1260,1910,2001,Solomon Islands,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0.116,,679,2001,Somalia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+6.71,6160,10500,2001,South Africa,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+59.4,17200,25700,2001,South Korea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+,,3330,2001,South Sudan,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+20.4,29700,36500,2001,Spain,europe,europe_central_asia,europe_west,Europe & Central Asia
+1.05,1840,6000,2001,Sri Lanka,asia,south_asia,asia_west,South Asia
+21.2,14600,22300,2001,St. Kitts and Nevis,americas,america,america_north,Latin America & Caribbean
+14.6,7480,12400,2001,St. Lucia,americas,america,america_north,Latin America & Caribbean
+5.55,5130,9320,2001,St. Vincent and the Grenadines,americas,america,america_north,Latin America & Caribbean
+0.439,1090,2450,2001,Sudan,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+4.16,5990,12300,2001,Suriname,americas,america,america_south,Latin America & Caribbean
+70.6,46300,42000,2001,Sweden,europe,europe_central_asia,europe_west,Europe & Central Asia
+61.4,69700,58400,2001,Switzerland,europe,europe_central_asia,europe_west,Europe & Central Asia
+2.09,,8660,2001,Syria,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+,,31500,2001,Taiwan,,,,
+0.0555,488,1470,2001,Tajikistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+0.222,562,1520,2001,Tanzania,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+7.53,3730,10600,2001,Thailand,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0,667,2420,2001,Timor-Leste,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+1,554,1270,2001,Togo,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2.91,3700,5420,2001,Tonga,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+22,10900,18900,2001,Trinidad and Tobago,americas,america,america_north,Latin America & Caribbean
+5.25,3100,7580,2001,Tunisia,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+11.4,8060,15100,2001,Turkey,europe,europe_central_asia,europe_east,Europe & Central Asia
+0.302,2440,4740,2001,Turkmenistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+,,,2001,Turks and Caicos Islands,,,,
+,3320,3600,2001,Tuvalu,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+0.384,592,1350,2001,Uganda,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1.87,2130,8470,2001,Ukraine,europe,europe_central_asia,europe_east,Europe & Central Asia
+28.3,59200,73000,2001,United Arab Emirates,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+56.5,37400,39800,2001,United Kingdom,europe,europe_central_asia,europe_west,Europe & Central Asia
+58.8,45100,50600,2001,United States,americas,america,america_north,North America
+11.4,7970,11800,2001,Uruguay,americas,america,america_south,Latin America & Caribbean
+1.08,1030,2940,2001,Uzbekistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+3.51,2460,2710,2001,Vanuatu,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4.91,10800,14800,2001,Venezuela,americas,america,america_south,Latin America & Caribbean
+1.85,847,3270,2001,Vietnam,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+27.5,36700,,2001,Virgin Islands (U.S.),,,,
+0.519,1190,4940,2001,Yemen,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+0.478,991,2080,2001,Zambia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1.1,1330,3190,2001,Zimbabwe,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa

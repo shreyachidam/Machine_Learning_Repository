@@ -1,0 +1,198 @@
+income,life_exp,population,year,country,four_regions,six_regions,eight_regions,world_bank_region
+1910,61,29200000,2010,Afghanistan,asia,south_asia,asia_west,South Asia
+11100,78.1,2950000,2010,Albania,europe,europe_central_asia,europe_east,Europe & Central Asia
+11100,74.7,36000000,2010,Algeria,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+46900,81.9,84500,2010,Andorra,europe,europe_central_asia,europe_west,Europe & Central Asia
+7680,60.8,23400000,2010,Angola,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+17600,76,88000,2010,Antigua and Barbuda,americas,america,america_north,Latin America & Caribbean
+24600,76,40900000,2010,Argentina,americas,america,america_south,Latin America & Caribbean
+9730,74.2,2880000,2010,Armenia,europe,europe_central_asia,europe_east,Europe & Central Asia
+45600,82.3,22200000,2010,Australia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+53300,81,8410000,2010,Austria,europe,europe_central_asia,europe_west,Europe & Central Asia
+13900,69.2,9030000,2010,Azerbaijan,europe,europe_central_asia,europe_east,Europe & Central Asia
+36300,73.2,355000,2010,Bahamas,americas,america,america_north,Latin America & Caribbean
+44200,75.3,1240000,2010,Bahrain,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+3040,71.1,148000000,2010,Bangladesh,asia,south_asia,asia_west,South Asia
+15400,76.2,282000,2010,Barbados,americas,america,america_north,Latin America & Caribbean
+18300,70.5,9420000,2010,Belarus,europe,europe_central_asia,europe_east,Europe & Central Asia
+48300,80.4,10900000,2010,Belgium,europe,europe_central_asia,europe_west,Europe & Central Asia
+7180,73.8,322000,2010,Belize,americas,america,america_north,Latin America & Caribbean
+2710,61.4,9200000,2010,Benin,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+8750,71.3,686000,2010,Bhutan,asia,south_asia,asia_west,South Asia
+6850,70.5,10000000,2010,Bolivia,americas,america,america_south,Latin America & Caribbean
+11200,76.4,3710000,2010,Bosnia and Herzegovina,europe,europe_central_asia,europe_east,Europe & Central Asia
+14800,57.8,1990000,2010,Botswana,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+15300,74,196000000,2010,Brazil,americas,america,america_south,Latin America & Caribbean
+69400,73.9,389000,2010,Brunei,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+18000,72.7,7430000,2010,Bulgaria,europe,europe_central_asia,europe_east,Europe & Central Asia
+1780,58.3,15600000,2010,Burkina Faso,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+853,59.4,8680000,2010,Burundi,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2870,67.4,14300000,2010,Cambodia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+3130,58.2,20300000,2010,Cameroon,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+45900,81.9,34100000,2010,Canada,americas,america,america_north,North America
+6370,74.5,493000,2010,Cape Verde,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1240,48.3,4390000,2010,Central African Republic,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1680,56.9,12000000,2010,Chad,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+22400,79,17100000,2010,Chile,americas,america,america_south,Latin America & Caribbean
+9690,75.3,1370000000,2010,China,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+12500,78.7,45200000,2010,Colombia,americas,america,america_south,Latin America & Caribbean
+2930,65.7,690000,2010,Comoros,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+895,59.4,64600000,2010,"Congo, Dem. Rep.",africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+5190,61.6,4270000,2010,"Congo, Rep.",africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+16900,80.2,4580000,2010,Costa Rica,americas,america,america_north,Latin America & Caribbean
+2810,57.8,20500000,2010,Cote d'Ivoire,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+24400,77.1,4330000,2010,Croatia,europe,europe_central_asia,europe_east,Europe & Central Asia
+7970,79.1,11200000,2010,Cuba,americas,america,america_north,Latin America & Caribbean
+37400,79.8,1110000,2010,Cyprus,europe,europe_central_asia,europe_west,Europe & Central Asia
+34100,78,10500000,2010,Czech Republic,europe,europe_central_asia,europe_east,Europe & Central Asia
+51500,79.9,5550000,2010,Denmark,europe,europe_central_asia,europe_west,Europe & Central Asia
+3770,63.6,840000,2010,Djibouti,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+12000,72.4,70900,2010,Dominica,americas,america,america_north,Latin America & Caribbean
+13000,73.4,9700000,2010,Dominican Republic,americas,america,america_north,Latin America & Caribbean
+11000,74.9,15000000,2010,Ecuador,americas,america,america_south,Latin America & Caribbean
+10300,69.6,82800000,2010,Egypt,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+7580,75.1,6180000,2010,El Salvador,americas,america,america_north,Latin America & Caribbean
+35400,63.1,944000,2010,Equatorial Guinea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2350,60.4,3170000,2010,Eritrea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+28200,76.3,1330000,2010,Estonia,europe,europe_central_asia,europe_east,Europe & Central Asia
+7580,49.8,1060000,2010,Eswatini,,,,
+1360,64,87600000,2010,Ethiopia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+10800,67.7,860000,2010,Fiji,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+46900,80.7,5370000,2010,Finland,europe,europe_central_asia,europe_east,Europe & Central Asia
+43000,81.8,62900000,2010,France,europe,europe_central_asia,europe_west,Europe & Central Asia
+14900,63.7,1620000,2010,Gabon,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2090,64.2,1790000,2010,Gambia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+10500,72.2,4100000,2010,Georgia,europe,europe_central_asia,europe_east,Europe & Central Asia
+49800,80.7,80800000,2010,Germany,europe,europe_central_asia,europe_west,Europe & Central Asia
+4160,62.4,24800000,2010,Ghana,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+31100,80.5,10900000,2010,Greece,europe,europe_central_asia,europe_west,Europe & Central Asia
+13400,72.6,106000,2010,Grenada,americas,america,america_north,Latin America & Caribbean
+7500,70.7,14600000,2010,Guatemala,americas,america,america_north,Latin America & Caribbean
+1930,57.9,10200000,2010,Guinea,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1840,56.9,1520000,2010,Guinea-Bissau,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+10300,65.7,749000,2010,Guyana,americas,america,america_south,Latin America & Caribbean
+2860,60,9950000,2010,Haiti,americas,america,america_north,Latin America & Caribbean
+,,783,2010,Holy See,,,,
+4960,71,8320000,2010,Honduras,americas,america,america_north,Latin America & Caribbean
+53500,83,,2010,"Hong Kong, China",asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+25100,75.1,9930000,2010,Hungary,europe,europe_central_asia,europe_east,Europe & Central Asia
+47300,82.8,320000,2010,Iceland,europe,europe_central_asia,europe_west,Europe & Central Asia
+4390,67.6,1230000000,2010,India,asia,south_asia,asia_west,South Asia
+8680,69.6,242000000,2010,Indonesia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+14000,75.8,73800000,2010,Iran,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+9440,71,29700000,2010,Iraq,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+52900,80.8,4550000,2010,Ireland,europe,europe_central_asia,europe_west,Europe & Central Asia
+36000,82,7350000,2010,Israel,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+43000,82.2,59300000,2010,Italy,europe,europe_central_asia,europe_west,Europe & Central Asia
+9550,75.8,2810000,2010,Jamaica,americas,america,america_north,Latin America & Caribbean
+37700,83.2,129000000,2010,Japan,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+11000,77.2,7260000,2010,Jordan,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+22000,68.1,16300000,2010,Kazakhstan,asia,europe_central_asia,asia_west,Europe & Central Asia
+3440,62,42000000,2010,Kenya,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1920,59,103000,2010,Kiribati,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+60900,80.9,2990000,2010,Kuwait,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+4340,70.3,5420000,2010,Kyrgyz Republic,asia,europe_central_asia,asia_west,Europe & Central Asia
+5160,65.6,6250000,2010,Lao,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+22900,73.9,2120000,2010,Latvia,europe,europe_central_asia,europe_east,Europe & Central Asia
+18700,75.7,4950000,2010,Lebanon,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+2390,48.2,2000000,2010,Lesotho,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1490,62.4,3890000,2010,Liberia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+8480,73.2,6200000,2010,Libya,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+,,36000,2010,Liechtenstein,,,,
+26100,73.7,3120000,2010,Lithuania,europe,europe_central_asia,europe_east,Europe & Central Asia
+108000,81.3,508000,2010,Luxembourg,europe,europe_central_asia,europe_west,Europe & Central Asia
+1540,62.9,21200000,2010,Madagascar,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+987,57.7,14500000,2010,Malawi,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+21300,74.6,28200000,2010,Malaysia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+17000,78,366000,2010,Maldives,asia,south_asia,asia_west,South Asia
+2090,58.9,15000000,2010,Mali,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+32900,81.2,414000,2010,Malta,europe,europe_central_asia,europe_west,Middle East & North Africa
+3610,64.2,56400,2010,Marshall Islands,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4820,68.4,3490000,2010,Mauritania,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+17500,74.6,1250000,2010,Mauritius,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+18200,75.5,114000000,2010,Mexico,americas,america,america_north,Latin America & Caribbean
+3760,64.1,103000,2010,"Micronesia, Fed. Sts.",asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+9050,71.7,4090000,2010,Moldova,europe,europe_central_asia,europe_east,Europe & Central Asia
+64900,79.2,35600,2010,Monaco,europe,europe_central_asia,europe_west,Europe & Central Asia
+8610,65.5,2720000,2010,Mongolia,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+17300,74.9,624000,2010,Montenegro,europe,europe_central_asia,europe_east,Europe & Central Asia
+6530,72.1,32300000,2010,Morocco,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+1070,53.6,23500000,2010,Mozambique,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+3280,65.4,50600000,2010,Myanmar,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+9180,61.9,2120000,2010,Namibia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+7330,60.5,10000,2010,Nauru,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+2430,69.2,27000000,2010,Nepal,asia,south_asia,asia_west,South Asia
+52800,81.1,16700000,2010,Netherlands,europe,europe_central_asia,europe_west,Europe & Central Asia
+38400,80.9,4370000,2010,New Zealand,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4840,74.3,5820000,2010,Nicaragua,americas,america,america_north,Latin America & Caribbean
+1020,59.3,16500000,2010,Niger,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+5060,60.2,159000000,2010,Nigeria,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2020,71.2,24500000,2010,North Korea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+13800,73.7,2070000,2010,North Macedonia,,,,
+61400,81.3,4890000,2010,Norway,europe,europe_central_asia,europe_west,Europe & Central Asia
+32500,70.8,3040000,2010,Oman,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+3930,63.6,179000000,2010,Pakistan,asia,south_asia,asia_west,South Asia
+16300,67,18000,2010,Palau,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+5780,73.7,4060000,2010,Palestine,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+23400,78.7,3640000,2010,Panama,americas,america,america_north,Latin America & Caribbean
+3370,63,7310000,2010,Papua New Guinea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+10700,76,6250000,2010,Paraguay,americas,america,america_south,Latin America & Caribbean
+10600,77.7,29000000,2010,Peru,americas,america,america_south,Latin America & Caribbean
+6040,70.7,94000000,2010,Philippines,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+25200,76.8,38300000,2010,Poland,europe,europe_central_asia,europe_west,Europe & Central Asia
+31400,80.5,10600000,2010,Portugal,europe,europe_central_asia,europe_west,Europe & Central Asia
+99100,73.9,1860000,2010,Qatar,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+20900,74.6,20500000,2010,Romania,europe,europe_central_asia,europe_east,Europe & Central Asia
+25000,70,143000000,2010,Russia,europe,europe_central_asia,europe_east,Europe & Central Asia
+1590,65.3,10000000,2010,Rwanda,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+6210,69.7,186000,2010,Samoa,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+64700,81.9,31200,2010,San Marino,europe,europe_central_asia,europe_west,Europe & Central Asia
+3430,69.3,180000,2010,Sao Tome and Principe,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+47000,72.2,27400000,2010,Saudi Arabia,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+2710,66,12700000,2010,Senegal,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+15000,74.3,8990000,2010,Serbia,europe,europe_central_asia,europe_east,Europe & Central Asia
+23200,73.4,91300,2010,Seychelles,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+1470,56.6,6420000,2010,Sierra Leone,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+81400,83.1,5130000,2010,Singapore,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+26200,76,5400000,2010,Slovak Republic,europe,europe_central_asia,europe_east,Europe & Central Asia
+33700,80,2040000,2010,Slovenia,europe,europe_central_asia,europe_east,Europe & Central Asia
+2550,57.6,528000,2010,Solomon Islands,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+686,54.3,12000000,2010,Somalia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+12700,58.7,51200000,2010,South Africa,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+35500,81.2,49500000,2010,South Korea,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4140,60.5,9510000,2010,South Sudan,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+37000,82.3,46900000,2010,Spain,europe,europe_central_asia,europe_west,Europe & Central Asia
+9830,75.3,20300000,2010,Sri Lanka,asia,south_asia,asia_west,South Asia
+23900,72.3,49000,2010,St. Kitts and Nevis,americas,america,america_north,Latin America & Caribbean
+14800,76,174000,2010,St. Lucia,americas,america,america_north,Latin America & Caribbean
+11400,73.2,108000,2010,St. Vincent and the Grenadines,americas,america,america_north,Latin America & Caribbean
+3650,67.6,34500000,2010,Sudan,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+17700,72.8,529000,2010,Suriname,americas,america,america_south,Latin America & Caribbean
+49100,82,9390000,2010,Sweden,europe,europe_central_asia,europe_west,Europe & Central Asia
+64600,83,7810000,2010,Switzerland,europe,europe_central_asia,europe_west,Europe & Central Asia
+6880,72.8,21400000,2010,Syria,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+44400,79.5,,2010,Taiwan,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+2370,68.1,7530000,2010,Tajikistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+2100,61.7,44300000,2010,Tanzania,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+14500,77.4,67200000,2010,Thailand,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+3050,70.2,1090000,2010,Timor-Leste,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+1270,60.2,6420000,2010,Togo,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+5550,72.3,104000,2010,Tonga,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+28700,74.5,1330000,2010,Trinidad and Tobago,americas,america,america_north,Latin America & Caribbean
+9820,76.2,10600000,2010,Tunisia,africa,middle_east_north_africa,africa_north,Middle East & North Africa
+22000,76.8,72300000,2010,Turkey,europe,europe_central_asia,europe_east,Europe & Central Asia
+9720,69.6,5090000,2010,Turkmenistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+3490,66.8,10500,2010,Tuvalu,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+1970,60.4,32400000,2010,Uganda,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+12500,71.5,45800000,2010,Ukraine,europe,europe_central_asia,europe_east,Europe & Central Asia
+56100,71,8550000,2010,United Arab Emirates,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+42500,80.8,63500000,2010,United Kingdom,europe,europe_central_asia,europe_west,Europe & Central Asia
+54800,78.9,309000000,2010,United States,americas,america,america_north,North America
+18600,76.4,3360000,2010,Uruguay,americas,america,america_south,Latin America & Caribbean
+4880,66.6,28500000,2010,Uzbekistan,asia,europe_central_asia,asia_west,Europe & Central Asia
+3190,64.5,236000,2010,Vanuatu,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+20400,75.4,28400000,2010,Venezuela,americas,america,america_south,Latin America & Caribbean
+5350,73.3,88000000,2010,Vietnam,asia,east_asia_pacific,east_asia_pacific,East Asia & Pacific
+4700,67.8,23200000,2010,Yemen,asia,middle_east_north_africa,asia_west,Middle East & North Africa
+3200,57.5,13600000,2010,Zambia,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
+2560,54.4,12700000,2010,Zimbabwe,africa,sub_saharan_africa,africa_sub_saharan,Sub-Saharan Africa
